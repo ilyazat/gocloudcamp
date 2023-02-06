@@ -1,0 +1,9 @@
+{"detail":"Config managed-k8s successfully created"}
+{"key1":"value1","key2":"value2"}
+{"detail":"Config managed-k8s successfully updated"}
+{"key1":"value1","key2":"value2"}
+{"key1":"value1","key2":"value2","key3":"value3"}
+{"detail":"The app nginx has been added to service managed-k8s successfully"}
+{"detail":"The config can't be deleted. One of the app uses it"}
+{"detail":"The app nginx has been removed from service managed-k8s successfully"}
+{"detail":"Config managed-k8s successfully deleted"}

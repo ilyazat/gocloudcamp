@@ -1,0 +1,8 @@
+{
+    "service": "managed-k8s",
+    "data": [
+        {"key1": "value1"},
+        {"key2": "value2"},
+        {"key3": "value3"}
+    ]
+}

@@ -1,0 +1,8 @@
+services:
+
+  testrunner:
+    build:
+      context: ./tests/
+      dockerfile: ./Dockerfile
+    depends_on:
+      - api
